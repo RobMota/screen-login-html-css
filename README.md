@@ -1,8 +1,11 @@
 # Tela de Acesso
 
-### Modo de uso
+#### Modo de uso:
+* Abra um terminal ( cmd/propt de comando )
+* Clone o repositório ( git clone git@github.com:RobMota/HTML-CSS.git ) em algum local de preferência
+* Acesse a pasta ( cd HTML-CSS )
+* E abra o arquivo index.html em seu navegador de preferência ( Ex: Chrome, Firefox... )
 
-Faça download dos arquivos e abra o arquivo index.html em seu navegador preferido
 
 ### Créditos de Imagem
 * [Font Awesome](https://fontawesome.com/)
