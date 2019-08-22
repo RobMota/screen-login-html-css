@@ -1,0 +1,149 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #02c39a;
+	background: -webkit-gradient(linear, left top, right bottom , from(#02c39a), to(#028090)) fixed;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+
+#container {
+	margin-top:90px;
+	margin-bottom:80px;
+}
+
+.responsa {
+	max-width: 380px;
+  padding: 1px 25px 100px;
+  margin: 0 auto;
+  background-color: #fff;
+	margin-top: 9%;
+}
+
+
+.header h1{
+	font-size: 3.5em;
+	text-decoration: underline #02c39a;
+	font-weight: lighter;
+	text-align:center;
+}
+
+.header h1:hover{
+	text-decoration: underline #000;
+
+}
+
+.header h2{
+	font-weight: 100;
+	text-align:center;
+	margin-top: -20px;
+}
+	
+.form-control {
+	width: 90%;
+	font-size: 18px;
+	padding: 10px;
+	border:1px solid #ccd6dd;
+	border-color:#ccd6dd;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin-top: 15px;
+}
+
+.form-control:required {
+  box-shadow: 0px 0px 0px;
+}
+
+.form-control:focus{
+	border: #000 solid 1px;
+}
+
+
+
+.btn{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	width: 96%;
+	font-size: 20px;
+	padding: 10px;
+	font-weight: 100;
+	margin-top: 20px;
+	border-color:#ccd6dd;
+	border:1px solid #ccd6dd;
+	background-color: #02c39a;
+}
+
+.btn:hover{
+	background-color: #00a896;
+	cursor: pointer;
+}
+
+form p a{
+	color: #000;
+	text-decoration: none;
+}
+
+form p a:hover {
+	text-decoration: underline #00a896;
+}
+
+.social li{
+	margin-top: 20px;
+	float: left;
+	list-style: none;
+	width: 18%;
+}
+
+.social a {
+	display: block;
+	padding: 2px;
+}
+
+
+
+.social a[href*="facebook.com"],
+.social a[href*="twitter.com"],
+.social a[href*="plus.google.com"],
+.social a[href*="pinterest.com"],
+.social a[href*="instagram.com"]
+{
+		width: 30px;
+		height: 30px;
+		background-size: cover;
+}
+
+
+.social a[href*="facebook.com"] {
+	background-image: url(../img/facebook.png);
+}
+
+.social a[href*="twitter.com"] {
+	background-image: url(../img/twitter.png);
+}
+
+.social a[href*="plus.google.com"] {
+	background-image: url(../img/googleplus.png);
+}
+
+.social a[href*="pinterest.com"] {
+		background-image: url(../img/pinterest.svg);
+}
+
+.social a[href*="instagram.com"] {
+		background-image: url(../img/instagram.png);
+}
+
+@media screen and (max-device-width: 480px) {
+	#container {
+		background-color: #fff;
+		margin: 0 0 0 0;
+		position:fixed;
+		background-image: cover;
+		width: 100%;
+		height: 100%;
+		overflow-y: auto;
+	}
+	
+	.btn{
+		width: 97%;
+	}
+	
+}
