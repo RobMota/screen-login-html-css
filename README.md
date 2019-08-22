@@ -4,7 +4,7 @@
 
 Faça download dos arquivos e abra o arquivo index.html em seu navegador preferido
 
-### Creditos de Imagem
+### Créditos de Imagem
 * [Font Awesome](https://fontawesome.com/)
 
 
