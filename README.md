@@ -1,4 +1,13 @@
-# Tela de Acesso
+# Projeto: Tela de acesso
+Desenhar uma tela de acesso com HTML e CSS
+
+### Utilidade:
+* Aprender a usar HTML e CSS
+
+#### Material:
+* HTML
+* CSS
+
 
 #### Modo de uso:
 * Abra um terminal ( cmd/propt de comando )
