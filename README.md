@@ -1,6 +1,6 @@
-![](./Home.png)
-
 # Projeto: Tela de acesso
+
+![](./Home.png)
 
 Desenhar uma tela de acesso com HTML e CSS
 
