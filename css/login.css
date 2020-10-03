@@ -10,6 +10,7 @@ body{
 #container {
 	margin-top:90px;
 	margin-bottom:80px;
+	min-width: 300px;
 }
 
 .responsa {
@@ -30,7 +31,6 @@ body{
 
 .header h1:hover{
 	text-decoration: underline #000;
-
 }
 
 .header h2{
@@ -63,6 +63,7 @@ body{
 	font-family:Georgia, "Times New Roman", Times, serif;
 	width: 96%;
 	font-size: 20px;
+	color: white;
 	padding: 10px;
 	font-weight: 100;
 	margin-top: 20px;
@@ -72,6 +73,7 @@ body{
 }
 
 .btn:hover{
+	border:1px solid black;
 	background-color: #00a896;
 	cursor: pointer;
 }
@@ -96,7 +98,6 @@ form p a:hover {
 	display: block;
 	padding: 2px;
 }
-
 
 
 .social a[href*="facebook.com"],
