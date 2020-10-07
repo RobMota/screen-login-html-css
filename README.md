@@ -16,8 +16,8 @@ Desenhar uma tela de acesso com HTML e CSS
 #### Modo de uso:
 
 - Abra um terminal ( cmd/propt de comando )
-- Clone o repositório ( git clone git@github.com:RobMota/HTML-CSS.git ) em algum local de preferência
-- Acesse a pasta ( cd HTML-CSS )
+- Clone o repositório ( git clone git@github.com:RobMota/screen-login-html-css.git ) em algum local de preferência
+- Acesse a pasta ( cd screen-login-html-css )
 - E abra o arquivo index.html em seu navegador de preferência ( Ex: Chrome, Firefox... )
 
 ### Créditos de Imagem
